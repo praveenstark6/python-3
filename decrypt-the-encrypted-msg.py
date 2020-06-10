@@ -7,7 +7,8 @@
                         e c o n h
                         s e m o t    -> reversed
                         n l e w x
-    And joined as "toioynnkpheleaigshareconhtomesnlewx" (encrypted message) , here the x is padded to form the rectangle
+    And joined as "toioynnkpheleaigshareconhtomesnlewx" (encrypted message) , 
+    Here the x is padded to form the rectangle.
 
     Inputs : columns(int) and encrypted message.
     Output : the original message(decrypted message) without spaces and x(padded letter).
