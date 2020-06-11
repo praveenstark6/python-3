@@ -1,11 +1,11 @@
 """
     The message is "there's no place like home on a snowy night".
                         t o i o y
-                        h p k n n    -> reversed
+                        h p k n n ----> reversed while joining
                         e l e a i
-                        r a h s g    -> reversed
+                        r a h s g ----> reversed while joining
                         e c o n h
-                        s e m o t    -> reversed
+                        s e m o t ----> reversed while joining
                         n l e w x
     And joined as "toioynnkpheleaigshareconhtomesnlewx" (encrypted message) , 
     Here the x is padded to form the rectangle.
